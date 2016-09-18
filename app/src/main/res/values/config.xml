@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server">http://172.26.107.153:8080/Web_01/Upload/servlet</string>
+</resources>
